@@ -29,3 +29,4 @@
 ### P.S.:
 
 Используемый код css минифицировал (чтоб преобразовать обратно https://www.websiteplanet.com/ru/webtools/jscssminifier/ ), но оставил исходник для наглядности.
+Задеплоил тут: https://bright-souffle-416df3.netlify.app/
